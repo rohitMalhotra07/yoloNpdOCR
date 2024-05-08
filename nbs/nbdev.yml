@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "yoloNpdOCR"
+  site-url: "https://rohitMalhotra07.github.io/yoloNpdOCR"
+  description: "Yolov5 based finetuned model for european number plate detection"
+  repo-branch: main
+  repo-url: "https://github.com/rohitMalhotra07/yoloNpdOCR"
