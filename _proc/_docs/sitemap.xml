@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/config.html</loc>
+    <lastmod>2024-05-08T18:31:36.547Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/core.html</loc>
+    <lastmod>2024-05-08T18:31:36.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/merge_data_sets.html</loc>
+    <lastmod>2024-05-08T18:31:36.527Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/inference.html</loc>
+    <lastmod>2024-05-08T18:42:41.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/train_yolo_ocr.html</loc>
+    <lastmod>2024-05-08T18:31:36.491Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/my_ocr_model.html</loc>
+    <lastmod>2024-05-08T18:31:37.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rohitMalhotra07.github.io/yoloNpdOCR/index.html</loc>
+    <lastmod>2024-05-08T18:42:41.102Z</lastmod>
+  </url>
 </urlset>

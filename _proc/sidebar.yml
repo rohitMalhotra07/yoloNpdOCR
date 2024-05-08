@@ -1,0 +1,10 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - config.ipynb
+      - inference.ipynb
+      - merge_data_sets.ipynb
+      - my_ocr_model.ipynb
+      - train_yolo_ocr.ipynb
