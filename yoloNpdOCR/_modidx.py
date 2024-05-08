@@ -5,4 +5,10 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://rohitMalhotra07.github.io',
                 'git_url': 'https://github.com/rohitMalhotra07/yoloNpdOCR',
                 'lib_path': 'yoloNpdOCR'},
-  'syms': {'yoloNpdOCR.core': {'yoloNpdOCR.core.foo': ('core.html#foo', 'yoloNpdOCR/core.py')}}}
+  'syms': { 'yoloNpdOCR.config': {'yoloNpdOCR.config.Config': ('config.html#config', 'yoloNpdOCR/config.py')},
+            'yoloNpdOCR.core': {'yoloNpdOCR.core.foo': ('core.html#foo', 'yoloNpdOCR/core.py')},
+            'yoloNpdOCR.my_yolo_ocr': { 'yoloNpdOCR.my_yolo_ocr.MyYoloOCR': ('my_ocr_model.html#myyoloocr', 'yoloNpdOCR/my_yolo_ocr.py'),
+                                        'yoloNpdOCR.my_yolo_ocr.MyYoloOCR.__init__': ( 'my_ocr_model.html#myyoloocr.__init__',
+                                                                                       'yoloNpdOCR/my_yolo_ocr.py'),
+                                        'yoloNpdOCR.my_yolo_ocr.MyYoloOCR.get_number_plate_text': ( 'my_ocr_model.html#myyoloocr.get_number_plate_text',
+                                                                                                    'yoloNpdOCR/my_yolo_ocr.py')}}}
