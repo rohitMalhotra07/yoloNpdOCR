@@ -22,3 +22,7 @@ pil_im
 ```
 
 ![](index_files/figure-commonmark/cell-3-output-1.png)
+
+## Docs
+
+- https://rohitmalhotra07.github.io/yoloNpdOCR/
